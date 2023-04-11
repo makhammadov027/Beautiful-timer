@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css2?family=Mada:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+    background-image: url('bg-image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgba(250, 242, 12, 0.894);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-family: 'Mada', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.time {
+    font-size: 4rem;
+}
